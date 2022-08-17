@@ -1,4 +1,14 @@
 # Planning_RRT
+
+
+Path planning algorithms like A* and RRT* are applied to the problem of an autonomous navigation of a wheelchair in an airport environment.
+
+# A*
+
+![image](https://user-images.githubusercontent.com/90351952/185042568-6ecc5c03-dc40-4b29-a2cf-e1bae79c19eb.png)
+
+# RRT*
+
 ![image](https://user-images.githubusercontent.com/90351952/185041817-2e571bfc-8ffc-4cca-b4f5-3068884dcb5e.png)
 
 
