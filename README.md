@@ -19,7 +19,7 @@ Path planning algorithms like A* and RRT* are applied to the problem of an auton
 ![image](https://user-images.githubusercontent.com/90351952/185041897-6a644cf6-5d8c-4c09-bb2c-387b87794a69.png)
 
 
-# Gazebo simulation 
+# Gazebo simulation with turtlebot
 
 
 ![image](https://user-images.githubusercontent.com/90351952/185041987-913b2b26-3fad-4109-9229-1616a5ac6497.png)
